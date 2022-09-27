@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nikolas95
 - 👀 I’m interested in learn programing !
-- 🌱 I’m currently learning HTML/CSS, Python, Git and DB (MySQL).
+- 🌱 I’m currently learning HTML/CSS, PHP, JS, Git and DB(MySQL).
 - 📫 How to reach me on Instagram @nikolashinikov
 
 <!---
